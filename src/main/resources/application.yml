@@ -1,0 +1,11 @@
+server:
+  port: 8092
+
+questions:
+  file-url: /Users/vladimir/java/projects/SpringTesting/src/main/resources/qw.csv
+
+logging:
+  file:
+    path: src/main/resources/log
+  level:
+    root: off

@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "questions.file-url",
+      "type": "java.lang.String",
+      "description": "Description for questions.file-url."
+  }
+] }

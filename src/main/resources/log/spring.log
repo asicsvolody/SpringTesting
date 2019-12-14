@@ -1,0 +1,12 @@
+2019-12-09 17:51:50.191  INFO 20337 --- [main] r.y.S.SpringTestingApplication           : Starting SpringTestingApplication on YakimovPro.local with PID 20337 (/Users/vladimir/java/projects/SpringTesting/target/classes started by vladimir in /Users/vladimir/java/projects/SpringTesting)
+2019-12-09 17:51:50.197  INFO 20337 --- [main] r.y.S.SpringTestingApplication           : No active profile set, falling back to default profiles: default
+2019-12-09 17:51:51.139  INFO 20337 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8092 (http)
+2019-12-09 17:51:51.146  INFO 20337 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-12-09 17:51:51.147  INFO 20337 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-12-09 17:51:51.208  INFO 20337 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-12-09 17:51:51.208  INFO 20337 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 970 ms
+2019-12-09 17:51:51.365  INFO 20337 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-12-09 17:51:51.700  WARN 20337 --- [main] org.jline                                : Unable to create a system terminal, creating a dumb terminal (enable debug logging for more information)
+2019-12-09 17:51:51.878  INFO 20337 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8092 (http) with context path ''
+2019-12-09 17:51:51.881  INFO 20337 --- [main] r.y.S.SpringTestingApplication           : Started SpringTestingApplication in 2.025 seconds (JVM running for 2.515)
+2019-12-09 22:28:30.961  INFO 20337 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
